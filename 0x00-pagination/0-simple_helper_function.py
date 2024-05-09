@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 """Helper pagination function
 """
-    
+
 from typing import Tuple
 
 
