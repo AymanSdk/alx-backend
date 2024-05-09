@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/env fish
 python3 -m doctest -v (basename (status -f))
 exit
 """
